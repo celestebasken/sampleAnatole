@@ -1,12 +1,11 @@
 baseURL = "/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Celeste's Sample Site"
+title = "Website of Jane Doe"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
-ignoreFiles = "\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"
 
 # Enable Disqus
 #disqusShortname = ""
